@@ -1,0 +1,22 @@
+.catagory .catagory-wrap{
+    display:flex;
+}
+.catagory .catagory-wrap .left-side{
+    width:30%;
+}
+.catagory .catagory-wrap .left-side ul {
+    color:#999;
+    background:#f4f4f4;
+    border-left:2px solid #fc4141;
+    text-align: center;
+    line-height: .8rem;
+    font-size: .12rem;
+}
+.active{
+    
+    border-left:2px solid #fc4141;
+    color:#fc4141;
+}
+.catagory .catagory-wrap .right-side{
+    width:70%;
+}

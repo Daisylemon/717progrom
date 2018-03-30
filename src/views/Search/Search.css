@@ -1,0 +1,16 @@
+.search header{
+    line-height:.5rem;
+    text-align:center
+}
+.search-ul,.search-ol{
+    display:flex;
+    flex-wrap:wrap;
+}
+.search-ul li,.search-ol li {
+    margin:.1rem;
+    padding:.05rem;
+    border:1px solid #ccc;
+}
+p{
+    line-height:.4rem;
+}

@@ -1,0 +1,19 @@
+.gooditem{
+    width:50%;
+}
+.gooditem dl{
+    border-top:1px solid #ccc;
+    border-left:1px solid #ccc;
+}
+.gooditem dl dd p{
+    margin-bottom:.1rem;
+}
+.gooditem dl dt{
+    height:3.2rem;
+}
+.cart{
+    padding-left:.1rem;
+    padding-right:.1rem;
+    display:flex;
+    justify-content: space-between;
+}

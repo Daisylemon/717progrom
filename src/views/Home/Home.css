@@ -1,0 +1,28 @@
+.home{
+    height:100%;
+    overflow: auto;
+}
+.home header{
+    text-align:center;
+    margin:.1rem;
+}
+.home section ul {
+    display:flex;
+    flex-wrap:wrap;
+}
+.home section ul li {
+    width:25%;
+    text-align:center;
+}
+.home section ul li img{
+    width:.56rem;
+    height:.56rem;
+    margin:0 auto;
+    border-radius: 50%;
+    padding:.1rem;
+}
+.goods-list{
+    width:100%;
+    display:flex;
+    flex-wrap:wrap
+}

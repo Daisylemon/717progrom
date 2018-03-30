@@ -1,0 +1,28 @@
+#root,.index{
+    position:absolute;
+    top:0;
+    bottom:0;
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    font-size:.12rem;
+}
+.content{
+    flex:1;
+    overflow-y: scroll;
+}
+
+.nav ul{
+    display:flex;
+    list-style:none;
+    justify-content: space-around
+}
+.nav ul li{
+    text-align:center;
+    display:flex;
+    flex-direction: column;
+    padding:.1rem;
+}
+.tab{
+    color:#fc4141;
+}
