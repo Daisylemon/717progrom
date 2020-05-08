@@ -12,7 +12,7 @@ class Catagory extends Component {
         }
     }
     render () {
-        let catList = ['家乡味道','进口食品','牛奶乳品','休闲零食','生鲜果蔬','米面粮油','调味调料','酒水饮料']
+        let catList = ['家乡味道1','进口食品2','牛奶乳品3','休闲零食','生鲜果蔬','米面粮油','调味调料','酒水饮料']
         return (
             <div className={className}>
                 <header><input type="text"/></header>
